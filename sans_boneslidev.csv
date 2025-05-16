@@ -2,10 +2,10 @@
 0,HeartTeleport,320,304,,,,,
 0,HeartMode,0,,,,,,
 0,TLPause,,,,,,,
-0,BoneStab,0,45,2,5,,	
-0,BoneStab,1,45,2,5,,	
-0,BoneStab,2,45,2,5,,	
-0,BoneStab,3,45,2,5,,	
+0,BoneStab,0,30,2,5,,	
+0,BoneStab,1,30,2,5,,	
+0,BoneStab,2,30,2,5,,	
+0,BoneStab,3,30,2,5,,	
 0.2,BoneHRepeat,130,-10,200,1,300,7,183
 0,BoneHRepeat,330,650,200,3,300,7,183
 5.76666,EndAttack,,,,,,,
